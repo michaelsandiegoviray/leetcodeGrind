@@ -44,3 +44,5 @@ var containsDuplicate = function (nums) {
 
 
 };
+
+// This is similar to a brute force solution but come back to it tomorrow and see how you can improve the code 
