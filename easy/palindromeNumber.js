@@ -56,4 +56,4 @@ var isPalindrome = function (x) {
 
 };
 
-// How can we make this more efficientß
+// How can we make this more efficient
